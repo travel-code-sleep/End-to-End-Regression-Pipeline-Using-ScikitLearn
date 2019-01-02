@@ -1,6 +1,6 @@
 # Prediction of Burn Area using Meteorological Data
 
-* **Link - ** http://www.kaggle.com/travelcodesleep/end-to-end-regression-pipeline-using-scikitlearn
+* **Link** - http://www.kaggle.com/travelcodesleep/end-to-end-regression-pipeline-using-scikitlearn
 
 #### My goal with this kernel is to provide a reusable end-to-end Regression framework that is deployable in real world. It is imperative that the users adapt it to the dataset in hand and make small necessary changes, but the overall process and class-objects given can adapt to any regression system.
 
